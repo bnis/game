@@ -1,1 +1,1 @@
-# gamegame projecthere we introduce **the version** for the gameV0.01 initial vserion, basis function
+# gamegame projecthere we introduce **the version** for the gameV0.01 initial vserion, basis functionV0.02 to designed some new rule
